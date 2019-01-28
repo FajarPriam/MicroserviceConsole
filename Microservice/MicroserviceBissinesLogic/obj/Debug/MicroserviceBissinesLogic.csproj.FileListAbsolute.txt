@@ -1,0 +1,14 @@
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceBissinesLogic.exe.config
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceBissinesLogic.exe
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceBissinesLogic.pdb
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\EntityFramework.dll
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceCommon.exe
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceDataAccess.exe
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceCommon.pdb
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\MicroserviceDataAccess.pdb
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\EntityFramework.xml
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\obj\Debug\MicroserviceBissinesLogic.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\obj\Debug\MicroserviceBissinesLogic.exe
+D:\Bootcamp MII\Microservice\MicroserviceBissinesLogic\obj\Debug\MicroserviceBissinesLogic.pdb

@@ -1,0 +1,16 @@
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\Microservice.exe.config
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\Microservice.exe
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\Microservice.pdb
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\EntityFramework.dll
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\MicroserviceBissinesLogic.exe
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\MicroserviceCommon.exe
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\MicroserviceDataAccess.exe
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\MicroserviceBissinesLogic.pdb
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\MicroserviceCommon.pdb
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\MicroserviceDataAccess.pdb
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\EntityFramework.xml
+D:\Bootcamp MII\Microservice\Microservice\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp MII\Microservice\Microservice\obj\Debug\Microservice.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Microservice\Microservice\obj\Debug\Microservice.exe
+D:\Bootcamp MII\Microservice\Microservice\obj\Debug\Microservice.pdb

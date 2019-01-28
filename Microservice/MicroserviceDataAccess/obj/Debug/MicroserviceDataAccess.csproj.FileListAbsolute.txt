@@ -1,0 +1,10 @@
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\MicroserviceDataAccess.exe.config
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\MicroserviceDataAccess.exe
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\MicroserviceDataAccess.pdb
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\EntityFramework.dll
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\EntityFramework.xml
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\obj\Debug\MicroserviceDataAccess.csprojResolveAssemblyReference.cache
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\obj\Debug\MicroserviceDataAccess.exe
+D:\Bootcamp MII\Microservice\MicroserviceDataAccess\obj\Debug\MicroserviceDataAccess.pdb
